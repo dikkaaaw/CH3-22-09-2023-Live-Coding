@@ -1,0 +1,27 @@
+{
+  "name": "09-19-2023",
+  "version": "1.0.0",
+  "description": "ini perkenalan express node js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KM-BINAR-BATCH-5/CH3-09-19-2023-nodejs-express-fs.git"
+  },
+  "author": "imam taufiq hermawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KM-BINAR-BATCH-5/CH3-09-19-2023-nodejs-express-fs/issues"
+  },
+  "homepage": "https://github.com/KM-BINAR-BATCH-5/CH3-09-19-2023-nodejs-express-fs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
